@@ -85,3 +85,11 @@
 ```bash
 git clone [https://github.com/gsphamgiabao/Pham_Gia_Bao_24810320309_BaiKiemTra02.git](https://github.com/gsphamgiabao/Pham_Gia_Bao_24810320309_BaiKiemTra02.git)
 
+
+---
+
+## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
+
+1. Clone Repository về máy:
+```bash
+git clone [https://github.com/gsphamgiabao/Pham_Gia_Bao_24810320309_BaiKiemTra02.git](https://github.com/gsphamgiabao/Pham_Gia_Bao_24810320309_BaiKiemTra02.git)
